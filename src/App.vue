@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import CalendarConstructor from "@/components/CalendarConstructor";
+import CalendarConstructor from '@/components/CalendarConstructor'
 export default {
-  name: "App",
+  name: 'App',
   components: {
     CalendarConstructor
   }
-};
+}
 </script>
 
 <style lang="scss">
